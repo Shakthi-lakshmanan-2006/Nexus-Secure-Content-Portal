@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS — Secure Content Portal",
+  "description": "Enterprise secure internal content portal for protected video streaming, PDF viewing, and sandboxed HTML sharing with role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
